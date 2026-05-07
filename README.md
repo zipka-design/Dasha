@@ -1,2 +1,1 @@
-[vless://7ca55b5c-a952-432c-a57c-e8d7686c687b@77.90.61.214:43000?type=tcp&security=reality&pbk=qhZBgnKOzsutCrNxxXz8dSvOW-WbJntP79BFu62ySw4&fp=chrome&sid=7618c980&spx=%2F&flow=xtls-rprx-vision#%F0%9F%87%AE%F0%9F%87%AA%20%D0%98%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D0%B8%D1%8F%20%D0%BE%D1%82%20StealthSurf%20VPN
-](https://connect.stealthsurf.space/to/3ac09c8a421a3cb1169b3abd)
+https://connect.stealthsurf.space/to/3ac09c8a421a3cb1169b3abd
